@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
+}
+
+body {
+    font-family: 'Edu NSW ACT Foundation', cursive, sans-serif;
+    margin: 0 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
